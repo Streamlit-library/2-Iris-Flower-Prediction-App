@@ -11,6 +11,7 @@
 8. [Imprimir `target_names` de lo datos cargados `iris`](#schema8)
 9. [Imprimir la predicción con los datos de usuario](#schema9)
 10. [Imprimir la probabilidad de la predicción](#schema10)
+11. [Documentación](#schema11)
 
 <hr>
 
@@ -134,3 +135,8 @@ st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
 ~~~
+
+# 11. Documentación
+https://www.youtube.com/watch?v=8M20LyCZDOY&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=2
+
+https://github.com/dataprofessor/code/blob/master/streamlit/part2/iris-ml-app.py
