@@ -1,4 +1,4 @@
-# 2-Iris-Flower-Prediction-App
+# 2 Iris Flower Prediction App
 
 
 1. [Importar librerías ](#schema1)
